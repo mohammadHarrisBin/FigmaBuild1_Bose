@@ -1,0 +1,67 @@
+@import url(//db.onlinewebfonts.com/c/1667b3306e8512774724deee2bd42b46?family=Helvetica+Neue);
+
+#header-container{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#header-inner-container{
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 350px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    /* font-family: 'Helvetica Neue'; */
+    font-style: italic;
+
+}
+
+
+@media only screen and (max-width:700px)  {
+  
+
+    #header-inner-container{
+        /* width: 100%; */
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    ul{
+        /* flex-direction: column-reverse; */
+        justify-content: space-around;
+        /* background-color: red; */
+        /* text-align: center; */
+      }
+      li {
+        padding: 10px;
+        /* width: 100%; */
+      }
+    
+      li  a{
+        /* width: 100%; */
+        padding: 10px;
+    
+      }
+    
+      li a:hover{
+        background-color: white;
+        color: #111A20;
+      }
+}
