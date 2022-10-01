@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Figma community design build 1
+website: https://figmabuild1-bose.pages.dev/
+youtube: https://www.youtube.com/channel/UCc_Jlmd0q3PxHOsecaZ7EWg
+
+# Try out / edit our coding
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
