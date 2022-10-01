@@ -1,6 +1,6 @@
 # Figma community design build 1
-website: https://figmabuild1-bose.pages.dev/
-youtube: https://www.youtube.com/channel/UCc_Jlmd0q3PxHOsecaZ7EWg
+Website: https://figmabuild1-bose.pages.dev/  \
+Youtube: https://www.youtube.com/channel/UCc_Jlmd0q3PxHOsecaZ7EWg
 
 # Try out / edit our coding
 
